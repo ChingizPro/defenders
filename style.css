@@ -541,3 +541,10 @@ a {
 	margin-right: 4px;
 	font-size: 21px;
 }
+.events {
+	padding: 100px;
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 25px;
+}
