@@ -516,4 +516,28 @@ a {
 }
 .map2 {
 	height: 450px;
+	margin-bottom: 50px;
+}
+.map-title {
+	text-align: center;
+}
+.advice {
+	text-align: center;
+	padding: 75px 50px;
+	line-height: 1.5;
+}
+.advice-title {
+	margin-top: 0;
+}
+.advice-link {
+	text-decoration: none;
+	background-color: #1e88e5;
+	color: white;
+	padding: 8px 17px 7px;
+	border-radius: 4px;
+	font-size: 20px;
+}
+.advice-link i {
+	margin-right: 4px;
+	font-size: 21px;
 }
